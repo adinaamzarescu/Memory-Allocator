@@ -134,3 +134,9 @@ what I need to deepen in terms of working with memory
 logic behind os_split_block() doesn't seem the most efficient to me
 
 _________________________________________________________________________
+
+### General Resources:
+
+1. https://stackoverflow.com/questions/32309299/how-to-align-memory-address
+2. https://linux.die.net/man/2/sbrk
+3. https://www3.cs.stonybrook.edu/~youngkwon/cse320/Lecture07_Dynamic_Memory_Allocation2.pdf
