@@ -121,3 +121,16 @@ and returns a pointer to the allocated memory block plus the
 size of the metadata block.
 
 _________________________________________________________________________
+
+### General observations
+
+* In retrospect, I wish I had spent more time testing and debugging 
+the code to ensure its stability.
+
+* The project helped me a lot to realize where I have gaps and 
+what I need to deepen in terms of working with memory
+
+* There are many optimizations that I could do. Also, the 
+logic behind os_split_block() doesn't seem the most efficient to me
+
+_________________________________________________________________________
